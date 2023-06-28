@@ -1,0 +1,713 @@
+[
+    {
+        "id": "82371585",
+        "title": "Team Lead (Data Science, Computer Vision)",
+        "url": "https://hh.ru/vacancy/82371585",
+        "salary_from": 228000,
+        "salary_to": null,
+        "employer": "ЭнтерАР",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79207905",
+        "title": "SRE инженер \\ DevOps",
+        "url": "https://hh.ru/vacancy/79207905",
+        "salary_from": 250000,
+        "salary_to": null,
+        "employer": "ДИДЖИ ТЕХ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "81702245",
+        "title": "Middle Full Stack Developer",
+        "url": "https://hh.ru/vacancy/81702245",
+        "salary_from": 120000,
+        "salary_to": 170000,
+        "employer": "Визионеро",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "82669868",
+        "title": "IT Product manager/Продуктолог в секторе TV и Media (B2B)",
+        "url": "https://hh.ru/vacancy/82669868",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "EPG Service",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "76533665",
+        "title": "Аналитик в команду внедрения ботов (со знанием Python)",
+        "url": "https://hh.ru/vacancy/76533665",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Бэнкс Софт Системс",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "81617841",
+        "title": "Middle / Junior программист (php - разработка и поддержание сайтов на OpenCart, Bitrix)",
+        "url": "https://hh.ru/vacancy/81617841",
+        "salary_from": 85000,
+        "salary_to": 140000,
+        "employer": "Wi-Fi и сетевое оборудование Ubiquiti Networks",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "76533694",
+        "title": "Аналитик в команду внедрения ботов (со знанием Python)",
+        "url": "https://hh.ru/vacancy/76533694",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Бэнкс Софт Системс",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "76533746",
+        "title": "Аналитик в команду внедрения ботов (со знанием Python)",
+        "url": "https://hh.ru/vacancy/76533746",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Бэнкс Софт Системс",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "67509807",
+        "title": "Профессор кафедры \"Систем автоматического управления\"",
+        "url": "https://hh.ru/vacancy/67509807",
+        "salary_from": null,
+        "salary_to": 60000,
+        "employer": "Санкт-Петербургский государственный электротехнический университет “ЛЭТИ” им. В.И. Ульянова (Ленина)",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "81425344",
+        "title": "Преподаватель компьютерных курсов",
+        "url": "https://hh.ru/vacancy/81425344",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Компьютерная Академия Top",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "82491929",
+        "title": "Программист-консультант в отдел внедрения и поддержки",
+        "url": "https://hh.ru/vacancy/82491929",
+        "salary_from": 15200000,
+        "salary_to": 30400000,
+        "employer": "RBC Group",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "81532267",
+        "title": "Ассистент предпринимателя",
+        "url": "https://hh.ru/vacancy/81532267",
+        "salary_from": 20000,
+        "salary_to": 50000,
+        "employer": "Бренд женской одежды Rifori",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "78495934",
+        "title": "Аналитик поисковых систем",
+        "url": "https://hh.ru/vacancy/78495934",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ВсеИнструменты.ру",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "81900474",
+        "title": "Ведущий эксперт (виртуализация)",
+        "url": "https://hh.ru/vacancy/81900474",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Angara Security",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "82388064",
+        "title": "Главный специалист R&D отдела (Аналитик продаж)",
+        "url": "https://hh.ru/vacancy/82388064",
+        "salary_from": null,
+        "salary_to": 30400000,
+        "employer": "Страховая компания Freedom Finance Insurance",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "55002569",
+        "title": "Инженер DevOps",
+        "url": "https://hh.ru/vacancy/55002569",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Красное & Белое, розничная сеть",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "82446509",
+        "title": "3D-моделлер (Blender)",
+        "url": "https://hh.ru/vacancy/82446509",
+        "salary_from": 75000,
+        "salary_to": null,
+        "employer": "Incona Engineering Group",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79993831",
+        "title": "Инженер-программист микроконтроллеров (С)",
+        "url": "https://hh.ru/vacancy/79993831",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Ижевский радиозавод",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "70474599",
+        "title": "Инженер-верификатор",
+        "url": "https://hh.ru/vacancy/70474599",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Т8",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "82303507",
+        "title": "Front-end разработчик (React)",
+        "url": "https://hh.ru/vacancy/82303507",
+        "salary_from": 80000,
+        "salary_to": 120000,
+        "employer": "Akseler",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "81931626",
+        "title": "Бизнес-аналитик (Boostr KZ Home)",
+        "url": "https://hh.ru/vacancy/81931626",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "АйтиСФ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "78288581",
+        "title": "Аналитик",
+        "url": "https://hh.ru/vacancy/78288581",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ГКУ Дирекция по Координации Деятельности Медицинских Организаций Департамента Здравоохранения Города Москвы",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "81404088",
+        "title": "Риск-аналитик/Скорингист",
+        "url": "https://hh.ru/vacancy/81404088",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Займ-Экспресс",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "81247489",
+        "title": "Senior backend-developer (Java)",
+        "url": "https://hh.ru/vacancy/81247489",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "1221Системс",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79048821",
+        "title": "Ведущий сетевой эксперт Центров обработки данных",
+        "url": "https://hh.ru/vacancy/79048821",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "МТС",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "82136230",
+        "title": "ВIM-менеджер",
+        "url": "https://hh.ru/vacancy/82136230",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Semren & Månsson",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79440787",
+        "title": "Технический маркетолог",
+        "url": "https://hh.ru/vacancy/79440787",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Бастион",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "77863398",
+        "title": "Ведущий инженер-программист",
+        "url": "https://hh.ru/vacancy/77863398",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "КировТЭК",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "82489259",
+        "title": "Разработчик в кредитные риски",
+        "url": "https://hh.ru/vacancy/82489259",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Народный банк Казахстана",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80590133",
+        "title": "Системный администратор",
+        "url": "https://hh.ru/vacancy/80590133",
+        "salary_from": 40000,
+        "salary_to": 100000,
+        "employer": "Группа Компаний Виктори",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "82404734",
+        "title": "Аналитик клиентского сервиса",
+        "url": "https://hh.ru/vacancy/82404734",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "МТС Банк",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "82583318",
+        "title": "Ведущий экономист (региональный экономический анализ, ДКП, моделирование и прогноз)",
+        "url": "https://hh.ru/vacancy/82583318",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Центральный банк Российской Федерации",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "81738354",
+        "title": "Ведущий программист встроенного ПО (Embedded Developer)",
+        "url": "https://hh.ru/vacancy/81738354",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ФГУП НПП Гамма",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "82549287",
+        "title": "Руководитель направления (отдел ревизий и внутреннего контроля)",
+        "url": "https://hh.ru/vacancy/82549287",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Почта России",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "81257822",
+        "title": "Ведущий инженер",
+        "url": "https://hh.ru/vacancy/81257822",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ФГУП Крыловский государственный научный центр",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "82153520",
+        "title": "Учитель по IT и робототехнике",
+        "url": "https://hh.ru/vacancy/82153520",
+        "salary_from": 80000,
+        "salary_to": null,
+        "employer": "Автономная некоммерческая общеобразовательная организация Лицей 65",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "82145729",
+        "title": "Инженер по автоматизированным системам управления технологией производства (АСУ ТП)",
+        "url": "https://hh.ru/vacancy/82145729",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Nordgold",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "82060818",
+        "title": "Преподаватель курсов по тестированию",
+        "url": "https://hh.ru/vacancy/82060818",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Бауманский учебный центр Специалист",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "78734374",
+        "title": "Аналитик данных поисковой выдачи",
+        "url": "https://hh.ru/vacancy/78734374",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Менеджмент - Консалт",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "78038471",
+        "title": "Программист/разработчик 1С (Middle)",
+        "url": "https://hh.ru/vacancy/78038471",
+        "salary_from": 180000,
+        "salary_to": null,
+        "employer": "Ювента",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "82329750",
+        "title": "Программист C#",
+        "url": "https://hh.ru/vacancy/82329750",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ПромРегион",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "55595206",
+        "title": "Ведущий инженер-программист (разработка и поддержка прикладных бизнес-решений)",
+        "url": "https://hh.ru/vacancy/55595206",
+        "salary_from": 89900,
+        "salary_to": null,
+        "employer": "Теплоэнерго",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80916144",
+        "title": "Frontend developer (Vue, GraphQL) middle+",
+        "url": "https://hh.ru/vacancy/80916144",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Napoleon IT",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "69519094",
+        "title": "Ведущий инженер - тестировщик",
+        "url": "https://hh.ru/vacancy/69519094",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "НЭПТ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "82154804",
+        "title": "Проектный инженер, АСУ ТП АСДУЭ \\ АСУЭ",
+        "url": "https://hh.ru/vacancy/82154804",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Шнейдер Электрик",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79724897",
+        "title": "ГИС-Аналитик",
+        "url": "https://hh.ru/vacancy/79724897",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Брусника",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79885403",
+        "title": "Аналитик данных, Витрины данных",
+        "url": "https://hh.ru/vacancy/79885403",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "WILDBERRIES",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "82137079",
+        "title": "Бизнес-аналитик",
+        "url": "https://hh.ru/vacancy/82137079",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Ozon",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "82116002",
+        "title": "Разработчик C# (бекэнд мобильного приложения)",
+        "url": "https://hh.ru/vacancy/82116002",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "РСХБ-Интех",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "82041373",
+        "title": "Frontend developer (PREMIER онлайн-кинотеатр)",
+        "url": "https://hh.ru/vacancy/82041373",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Rutube",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "82029380",
+        "title": "Product Analyst",
+        "url": "https://hh.ru/vacancy/82029380",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "IDF Eurasia",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "81877599",
+        "title": "Product analyst",
+        "url": "https://hh.ru/vacancy/81877599",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "МФО ОнлайнКазФинанс (ТМ Solva)",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79012849",
+        "title": "Ведущий инженер (направление резервного копирования)",
+        "url": "https://hh.ru/vacancy/79012849",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ГКУ Инфогород",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80459886",
+        "title": "Аналитик данных (Junior)",
+        "url": "https://hh.ru/vacancy/80459886",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "СИСТЭМ ЭЛЕКТРИК",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "81842703",
+        "title": "Аналитик данных / Инженер по качеству данных",
+        "url": "https://hh.ru/vacancy/81842703",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "X5 Tech",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "77636567",
+        "title": "Middle-разработчик систем бизнес-анализа (Qlik Sense)",
+        "url": "https://hh.ru/vacancy/77636567",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "F+tech | МКТ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "76033819",
+        "title": "Team Leader",
+        "url": "https://hh.ru/vacancy/76033819",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Брусника",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80508103",
+        "title": "Аналитик",
+        "url": "https://hh.ru/vacancy/80508103",
+        "salary_from": 80000,
+        "salary_to": 80000,
+        "employer": "КЛЮЧАВТО",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79322823",
+        "title": "Аудитор данных (со знанием SQL)",
+        "url": "https://hh.ru/vacancy/79322823",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "МегаФон",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79046097",
+        "title": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/79046097",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Банк ВТБ (ПАО)",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "81039579",
+        "title": "Ведущий специалист Службы по управлению банковскими рисками",
+        "url": "https://hh.ru/vacancy/81039579",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "БАНК СГБ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80237806",
+        "title": "Начальник отдела обработки пространственных данных / Ведущий программист",
+        "url": "https://hh.ru/vacancy/80237806",
+        "salary_from": 250000,
+        "salary_to": null,
+        "employer": "ГК Тихие Крылья",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79318566",
+        "title": "Начальник / заместитель начальника отдела разработки и автоматизации техпроцессов",
+        "url": "https://hh.ru/vacancy/79318566",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ГК Тихие Крылья",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "81587671",
+        "title": "PHP-разработчик",
+        "url": "https://hh.ru/vacancy/81587671",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "USETECH",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "81583749",
+        "title": "Главный инженер по сопровождению (Лаборатория данных)",
+        "url": "https://hh.ru/vacancy/81583749",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "СБЕР",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "81568518",
+        "title": "Аналитик данных в Казначейство",
+        "url": "https://hh.ru/vacancy/81568518",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "СБЕР",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "81553231",
+        "title": "Ведущий актуарий (Аналитик SQL)",
+        "url": "https://hh.ru/vacancy/81553231",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Ингосстрах",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "81567486",
+        "title": "Риск-менеджер",
+        "url": "https://hh.ru/vacancy/81567486",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ПСБ Лизинг",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "81484585",
+        "title": "Разработчик ПО (BetaFlight, Ardupilot, INAV) Удаленно.",
+        "url": "https://hh.ru/vacancy/81484585",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "НИПП РУСТЕХДРОН",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80682201",
+        "title": "Руководитель направления экспертизы рисков",
+        "url": "https://hh.ru/vacancy/80682201",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ПСБ Лизинг",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "81432493",
+        "title": "PHP senior разработчик (yii)",
+        "url": "https://hh.ru/vacancy/81432493",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Юзтех Бел",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "81406863",
+        "title": "Supply Planner (PLV Planner)",
+        "url": "https://hh.ru/vacancy/81406863",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Non-food FMCG company",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80930655",
+        "title": "Middle/Senior аналитик данных (BI)",
+        "url": "https://hh.ru/vacancy/80930655",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "К-ТЕХНОЛОГИИ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "77843186",
+        "title": "Портфельный риск-аналитик (фрод-мониторинг)",
+        "url": "https://hh.ru/vacancy/77843186",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Банк ВТБ (ПАО)",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "81417670",
+        "title": "Middle/Senior разработчик систем компьютерного зрения (DL)",
+        "url": "https://hh.ru/vacancy/81417670",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Нейросетевые решения",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "77987646",
+        "title": "Аналитик (IT, удаленно)",
+        "url": "https://hh.ru/vacancy/77987646",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Бэнкс Софт Системс",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "76533535",
+        "title": "Аналитик в команду внедрения ботов",
+        "url": "https://hh.ru/vacancy/76533535",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Бэнкс Софт Системс",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "77987575",
+        "title": "Аналитик (ИТ, удаленно)",
+        "url": "https://hh.ru/vacancy/77987575",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Бэнкс Софт Системс",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "77987709",
+        "title": "Аналитик в направление речевых технологий",
+        "url": "https://hh.ru/vacancy/77987709",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Бэнкс Софт Системс",
+        "api": "HeadHunter"
+    }
+]
